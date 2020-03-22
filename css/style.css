@@ -354,7 +354,11 @@ color: #fff;
 
 #myCarousel{
 	
-	width: 50%;
+<<<<<<< HEAD
+	width: 25%;
+=======
+	width: 25%;
+>>>>>>> e1cee9f2dc41d2361792e78d5f5258591b56bf82
 	text-align: right;
 	background-color: #444444;
 	background:#ffffff;
