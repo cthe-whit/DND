@@ -150,13 +150,13 @@ p{
 	margin:0 auto 35px;
 }
 .header h1{
-	font-family: 'Montserrat',sans-serif;
+	font-family: "Euclid Fraktur", "Old English Text MT", fantasy, serif;
 	font-style:bold;
 	font-size:200px;
 	font-weight:400;
 	letter-spacing: -1px;
 	margin:0 0 22px 0 ;
-	color:#586;
+	color:#111;
 }
 
 .we-create{
@@ -170,7 +170,7 @@ p{
 	display:inline-block;
 	font-family: 'Montserrat',sans-serif;
 	font-size:25px;
-	color: #654;
+	color: #ffffff;
 	text-transform: uppercase;
 	font-weight: 400;
 	margin:0 6px 0 0;
