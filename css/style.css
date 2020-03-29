@@ -280,15 +280,22 @@ color: #fff;
 }
 
 .small-logo{ 
-	padding:0 1px;
+	padding:0 3px;
 }
 
 .main-section{
 	padding:60px 0 90px;
+
 }
 
 
+/*
 
+	transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+	
+*/
 
 
 
@@ -711,6 +718,8 @@ img {
 
 
 
+
+
 /* Portfolio
 ------------------------------------------------------------------------------------*/
 .Portfolio-nav{
@@ -722,6 +731,9 @@ img {
 .Portfolio-nav li{
 	margin:0 10px;
 	display:inline;
+	transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
 }
 .Portfolio-nav li a{
 	display:inline-block;
