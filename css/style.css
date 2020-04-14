@@ -444,7 +444,7 @@ color: #fff;
 	color:#777777;
 	font-style:normal;
 }
-.featured-box-col2{ overflow:hidden;}
+.featured-box-col2{ overflow:hidden; width: 500px;}
 .featured-box.magic{
 	background:url(../img/icon5.png) left top no-repeat;
 }
