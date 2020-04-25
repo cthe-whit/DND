@@ -773,6 +773,16 @@ img {
 	padding:0;
 }
 
+.Portfolio-box1{
+	text-align:center;
+	margin-bottom:30px;
+	height:250px;
+	width:250px;
+	overflow:hidden;
+	float:left;
+	padding:0;
+}
+
 .Portfolio-box img{
 	margin-bottom:25px;
 	transition:all 0.3s ease-in-out;
